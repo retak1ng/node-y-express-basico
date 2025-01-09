@@ -1,0 +1,16 @@
+{
+  "name": "fcc-learn-node-with-express",
+  "version": "0.1.0",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.14.0",
+    "fcc-express-bground": "https://github.com/retak1ng/node-y-express-basico.git",
+    "moment-timezone": "^0.5.46"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js"
+  }
+}
